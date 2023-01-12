@@ -1,6 +1,6 @@
 # Máquinas que escrevem
-Uma lista de 12 máquinas, que escrevem de maneira automática, começando pelo ***Livro de Daniel***, na Bíblia Sagrada, escrito no século VI a.C, até o programa ***GPT-2***, da OpenAI, que já foi entrevistado pela revista The Economist.
+6 - Cem bilhões de poemas, Queneau, 1961
 
-Os programas são em python 3.7.0 do Anaconda 1.7.2
+Os Cem mil bilhões de poemas, de Raymond Queneau, é uma máquina muito simples. Um livro com dez páginas. Cada página um poema. Cada poema com 14 versos. E cada verso escrito numa tira que forma a página. Assim o leitor poderá fazer quaisquer combinações entre os poemas e os versos. Ou 10 poemas elevados a 14 versos, ou 10¹⁴ = 100.000.000.000.000, 100 bilhões de poemas.
 
 
